@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686542509973,1877,HTTP Request,200,OK,Thread Group 1-1,text,true,,66097,274,1,1,https://www.tigaintipilar.co.id/projects/map/,217,0,113
+1686542509973,230,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,1166,135,1,1,http://tigaintipilar.co.id/projects/map/,217,0,113
+1686542510208,1642,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,64931,139,1,1,https://www.tigaintipilar.co.id/projects/map/,1557,0,1354
+1686542514706,757,HTTP Request,200,OK,Thread Group 1-2,text,true,,66097,274,1,1,https://www.tigaintipilar.co.id/projects/map/,223,0,141
+1686542514706,223,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,1166,135,1,1,http://tigaintipilar.co.id/projects/map/,223,0,141
+1686542514931,532,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,64931,139,1,1,https://www.tigaintipilar.co.id/projects/map/,419,0,289
